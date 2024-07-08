@@ -1,0 +1,6 @@
+# ninja log v6
+4	495	1720444222532472870	CMakeFiles/cpp_projects.dir/day-10/vectors.cpp.o	f75fbdcd99fcc98c
+4	53	1720444789495419155	cpp_projects	e916e9c8e3207563
+3	68	1720445521323394155	build.ninja	2bb48df073826273
+7	572	1720445539750306835	CMakeFiles/cpp_projects.dir/day-10/vectors.cpp.o	3b93aee5bd7919f5
+572	616	1720445540314843436	cpp_projects	e916e9c8e3207563

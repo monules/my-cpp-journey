@@ -1,0 +1,3 @@
+/Users/saidumaregamberdiev/inha/GitHub/cpp/cmake-build-debug/CMakeFiles/cpp_projects.dir
+/Users/saidumaregamberdiev/inha/GitHub/cpp/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/saidumaregamberdiev/inha/GitHub/cpp/cmake-build-debug/CMakeFiles/rebuild_cache.dir
