@@ -7,6 +7,7 @@ int main(){
     int a{2};
     for (int i : numbers)
         std::cout<<i<<std::endl;
+    std::vector vowels {1,2,3,4};
     std::cout<<a<<std::endl;
     return 0;
 }

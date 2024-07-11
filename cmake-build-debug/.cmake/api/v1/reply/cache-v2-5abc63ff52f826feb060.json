@@ -55,7 +55,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/Users/saidumaregamberdiev/inha/GitHub/cpp/cmake-build-debug"
+			"value" : "/Users/saidumaregamberdiev/inha/GitHub/my-cpp-journey/cmake-build-debug"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -479,7 +479,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/Users/saidumaregamberdiev/inha/GitHub/cpp/cmake-build-debug/CMakeFiles/pkgRedirects"
+			"value" : "/Users/saidumaregamberdiev/inha/GitHub/my-cpp-journey/cmake-build-debug/CMakeFiles/pkgRedirects"
 		},
 		{
 			"name" : "CMAKE_GENERATOR",
@@ -539,7 +539,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/Users/saidumaregamberdiev/inha/GitHub/cpp"
+			"value" : "/Users/saidumaregamberdiev/inha/GitHub/my-cpp-journey"
 		},
 		{
 			"name" : "CMAKE_INSTALL_NAME_TOOL",
@@ -1127,7 +1127,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/Users/saidumaregamberdiev/inha/GitHub/cpp/cmake-build-debug"
+			"value" : "/Users/saidumaregamberdiev/inha/GitHub/my-cpp-journey/cmake-build-debug"
 		},
 		{
 			"name" : "cpp_projects_IS_TOP_LEVEL",
@@ -1151,7 +1151,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/Users/saidumaregamberdiev/inha/GitHub/cpp"
+			"value" : "/Users/saidumaregamberdiev/inha/GitHub/my-cpp-journey"
 		}
 	],
 	"kind" : "cache",
