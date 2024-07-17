@@ -49,11 +49,11 @@ cmake_ninja_workdir = /Users/saidumaregamberdiev/inha/GitHub/my-cpp-journey/cmak
 
 build cmake_object_order_depends_target_cpp_projects: phony || CMakeFiles/cpp_projects.dir
 
-build CMakeFiles/cpp_projects.dir/day-13/practice_problems.cpp.o: CXX_COMPILER__cpp_projects_unscanned_Debug /Users/saidumaregamberdiev/inha/GitHub/my-cpp-journey/day-13/practice_problems.cpp || cmake_object_order_depends_target_cpp_projects
-  DEP_FILE = CMakeFiles/cpp_projects.dir/day-13/practice_problems.cpp.o.d
+build CMakeFiles/cpp_projects.dir/day-14/main.cpp.o: CXX_COMPILER__cpp_projects_unscanned_Debug /Users/saidumaregamberdiev/inha/GitHub/my-cpp-journey/day-14/main.cpp || cmake_object_order_depends_target_cpp_projects
+  DEP_FILE = CMakeFiles/cpp_projects.dir/day-14/main.cpp.o.d
   FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -fcolor-diagnostics
   OBJECT_DIR = CMakeFiles/cpp_projects.dir
-  OBJECT_FILE_DIR = CMakeFiles/cpp_projects.dir/day-13
+  OBJECT_FILE_DIR = CMakeFiles/cpp_projects.dir/day-14
 
 
 # =============================================================================
@@ -63,7 +63,7 @@ build CMakeFiles/cpp_projects.dir/day-13/practice_problems.cpp.o: CXX_COMPILER__
 #############################################
 # Link the executable cpp_projects
 
-build cpp_projects: CXX_EXECUTABLE_LINKER__cpp_projects_Debug CMakeFiles/cpp_projects.dir/day-13/practice_problems.cpp.o
+build cpp_projects: CXX_EXECUTABLE_LINKER__cpp_projects_Debug CMakeFiles/cpp_projects.dir/day-14/main.cpp.o
   FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk
   OBJECT_DIR = CMakeFiles/cpp_projects.dir
   POST_BUILD = :
