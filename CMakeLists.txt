@@ -4,4 +4,4 @@ project(cpp_projects)
 set(CMAKE_CXX_STANDARD 17)
 
 add_executable(cpp_projects
-        day-14/main.cpp)
+        day-15/main.cpp)
